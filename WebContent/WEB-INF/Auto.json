@@ -1,0 +1,26 @@
+[
+    {
+        "auto": {
+            "id": "1",
+            "marka": "mazda",
+            "engineCapacity": "2.0"
+			"color": "red"
+        }
+    },
+    {
+        "auto": {
+            "id": "2",
+            "marka": "audi",
+            "engineCapacity": "2.2"
+			"color": "blue"
+        }
+    },
+	{
+        "auto": {
+            "id": "3",
+            "marka": "audi",
+            "engineCapacity": "2.0"
+			"color": "black"
+        }
+    }
+]
